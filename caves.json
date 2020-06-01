@@ -11,6 +11,21 @@
     ]
   },
   {
+    "name": "Shores of Hon",
+    "level": 1,
+    "location": "Hon by the Sea (73,154)",
+    "mobs": [
+      {
+        "name": "Pirate Fighter",
+        "drops": [""]
+      },
+      {
+        "name": "Pirate Scout",
+        "drops": [""]
+      }
+    ]
+  },
+  {
     "name": "Hole in the Ground",
     "level": 1,
     "location": "Hon by the Sea (62,101)",
@@ -371,5 +386,248 @@
         "drops": [""]
       }
     ]
+  },
+  {
+    "name": "Spider Pit",
+    "level": 50,
+    "location": "Woods North of Hon (130,090)",
+    "mobs": [{
+      "name": "Young Spider",
+      "drops": [""]
+    },
+    {
+      "name": "Guardian Spider",
+      "drops": [""]
+    },
+    {
+      "name": "Lurking Spider",
+      "drops": [""]
+    },
+    {
+      "name": "Spider Queen",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "Grim Barrens",
+    "level": 63,
+    "location": "Lortz Territory (025,000)",
+    "mobs": [{
+      "name": "Grim Ogre",
+      "drops": [""]
+    },
+    {
+      "name": "Southern Ogre",
+      "drops": [""]
+    },
+    {
+      "name": "Muck Ogre",
+      "drops": [""]
+    },
+    {
+      "name": "Slime Ogre",
+      "drops": [""]
+    },
+    {
+      "name": "Hill Ogre",
+      "drops": [""]
+    },
+    {
+      "name": "Log",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "Wolf Den",
+    "level": 63,
+    "location": "Woods North of Hon (027,051)",
+    "mobs": [{
+      "name": "Brown Wolf",
+      "drops": [""]
+    },
+    {
+      "name": "Black Wolf",
+      "drops": [""]
+    },
+    {
+      "name": "White Wolf",
+      "drops": [""]
+    },
+    {
+      "name": "Red Wolf",
+      "drops": [""]
+    },
+    {
+      "name": "Dire Wolf",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "North Port",
+    "level": 70,
+    "location": "Cathay Outskirts (004,000)",
+    "mobs": [{
+      "name": "Slimy Skeleton",
+      "drops": [""]
+    },
+    {
+      "name": "Icy Veins",
+      "drops": [""]
+    },
+    {
+      "name": "Ice Ogre Skeleton",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "North Port Inn / Harbor Office",
+    "level": 91,
+    "location": "North Port",
+    "mobs": [{
+      "name": "Suffocated Troll",
+      "drops": [""]
+    },
+    {
+      "name": "Undead Northern Ogre",
+      "drops": [""]
+    },
+    {
+      "name": "Red Death",
+      "drops": [""]
+    },
+    {
+      "name": "Freddy the Flayer",
+      "drops": [""]
+    },
+    {
+      "name": "Glow Skull",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "Cold Iron Crypt",
+    "level": 70,
+    "location": "Cold Iron (045,006)",
+    "mobs": [{
+      "name": "Conjured Doom",
+      "drops": [""]
+    },
+    {
+      "name": "Slaughtered Witch",
+      "drops": [""]
+    },
+    {
+      "name": "Fallen Hero",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "Tongspur Beach",
+    "level": 80,
+    "location": "Woods North of Hon (001,034)",
+    "mobs": [{
+      "name": "Man o War",
+      "drops": [""]
+    },
+    {
+      "name": "Crazed Lobster",
+      "drops": [""]
+    },
+    {
+      "name": "Possessed Snail",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "Tongspur Swamp",
+    "level": 80,
+    "location": "Woods North of Hon (001,034)",
+    "mobs": [{
+      "name": "Giant Bug",
+      "drops": [""]
+    },
+    {
+      "name": "Swamp Frog",
+      "drops": [""]
+    },
+    {
+      "name": "Tree Frog",
+      "drops": [""]
+    },
+    {
+      "name": "Swamp Slime",
+      "drops": [""]
+    },
+    {
+      "name": "Bog Frog",
+      "drops": [""]
+    },
+    {
+      "name": "Swamp Gator",
+      "drops": [""]
+    },
+    {
+      "name": "Disturbed Tree",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "Lortz Path",
+    "level": 84,
+    "location": "Lortz Territory (051,002)",
+    "mobs": [{
+      "name": "",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "Blackstrike Tower",
+    "level": 91,
+    "location": "Blackstrike Eye (002,006)",
+    "mobs": [{
+      "name": "Mudman",
+      "drops": [""]
+    },
+    {
+      "name": "Mucus Man",
+      "drops": [""]
+    },
+    {
+      "name": "Black Wolf",
+      "drops": [""]
+    },
+    {
+      "name": "Mega Mudman",
+      "drops": [""]
+    },
+    {
+      "name": "Blackstrike",
+      "drops": [""]
+    }]
+  },
+  {
+    "name": "Blackstrike Tower",
+    "level": 91,
+    "location": "Blackstrike Eye (002,006)",
+    "mobs": [{
+      "name": "Mudman",
+      "drops": [""]
+    },
+    {
+      "name": "Mucus Man",
+      "drops": [""]
+    },
+    {
+      "name": "Black Wolf",
+      "drops": [""]
+    },
+    {
+      "name": "Mega Mudman",
+      "drops": [""]
+    },
+    {
+      "name": "Blackstrike",
+      "drops": [""]
+    }]
   }
 ]
