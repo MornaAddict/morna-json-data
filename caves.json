@@ -604,30 +604,5 @@
       "name": "Blackstrike",
       "drops": [""]
     }]
-  },
-  {
-    "name": "Blackstrike Tower",
-    "level": 91,
-    "location": "Blackstrike Eye (002,006)",
-    "mobs": [{
-      "name": "Mudman",
-      "drops": [""]
-    },
-    {
-      "name": "Mucus Man",
-      "drops": [""]
-    },
-    {
-      "name": "Black Wolf",
-      "drops": [""]
-    },
-    {
-      "name": "Mega Mudman",
-      "drops": [""]
-    },
-    {
-      "name": "Blackstrike",
-      "drops": [""]
-    }]
   }
 ]
