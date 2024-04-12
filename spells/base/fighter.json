@@ -1,0 +1,323 @@
+{
+  "spells": [
+    {
+      "level": 5,
+      "name": "Stag's Rage",
+      "description": "Basic attack damage buff",
+      "cost": { "Dead Rabbit": 25, "coins": 100 },
+      "class": "fighter"
+    },
+    {
+      "level": 5,
+      "name": "Bash Face",
+      "description": "Single target (Melee) damage spell",
+      "cost": { "Dead Rabbit": 15, "Acorn": 15, "coins": 150 },
+      "class": "fighter"
+    },
+    {
+      "level": 9,
+      "name": "Heal Others",
+      "description": "Restore 50 HP (target-able)",
+      "cost": { "Acorn": 75, "coins": 75 },
+      "class": "fighter"
+    },
+    {
+      "level": 10,
+      "name": "Flank",
+      "description": "Deal damage to 4 adjacent enemies",
+      "cost": { "Acorn": 10, "Dead Rabbit": 5, "Flourspar": 1, "coins": 200 },
+      "class": "fighter"
+    },
+    {
+      "level": 18,
+      "name": "Taunt",
+      "description": "Attract an enemy",
+      "cost": { "Small Scale": 10, "coins": 150 },
+      "class": "fighter"
+    },
+    {
+      "level": 24,
+      "name": "Lion's Fury",
+      "description": "Upgrade from Stag's Rage; melee damage buff",
+      "cost": { "Antler": 5, "Black Fox Fur": 15, "coins": 250 },
+      "class": "fighter"
+    },
+    {
+      "level": 25,
+      "name": "Creature's Guidance",
+      "description": "Reveals traps",
+      "cost": { "Raw Ruby": 1, "Dead Rat": 15, "coins": 100 },
+      "class": "fighter"
+    },
+    {
+      "level": 28,
+      "name": "Enchant",
+      "description": "Enchant your weapon, making it deal more damage",
+      "cost": { "Stilleto": 1, "Antler": 5, "Black Fox Fur": 10, "coins": 150 },
+      "class": "fighter"
+    },
+    {
+      "level": 36,
+      "name": "Protective Stance",
+      "description": "Takes less damage at the cost of attack damage (Only 1 stance can be active at a time)",
+      "cost": {
+        "Head Honcho": 1,
+        "Rainbow Fox Fur": 1,
+        "Light Fox Fur": 6,
+        "Red Fox Fur": 10,
+        "coins": 500
+      },
+      "class": "fighter"
+    },
+    {
+      "level": 45,
+      "name": "Mammoth's Fury",
+      "description": "Upgrade from Lion's Fury; Melee damage buff",
+      "cost": {
+        "Fine Snake Meat": 5,
+        "Kumiho Tail": 1,
+        "Rainbow Fox Fur": 10,
+        "Light Fox Fur": 10,
+        "coins": 750
+      },
+      "class": "fighter"
+    },
+    {
+      "level": 50,
+      "name": "Call Foes",
+      "description": "Attracts enemies within a 3x3 radius",
+      "cost": { "Zanbato": 1, "coins": 1000 },
+      "class": "fighter"
+    },
+    {
+      "level": 55,
+      "name": "Infuse",
+      "description": "Upgrade from Enchant;Adds damage",
+      "cost": { "Stiletto": 1, "Antler": 10, "Red Fox Fur": 20, "coins": 1000 },
+      "class": "fighter"
+    },
+    {
+      "level": 60,
+      "name": "Relief",
+      "description": "Heal yourself for 400 HP",
+      "cost": {
+        "Acorn": 80,
+        "Rainbow Fox Fur": 5,
+        "Light Fox Fur": 5,
+        "Red Fox Fur": 20,
+        "coins": 200
+      },
+      "class": "fighter"
+    },
+    {
+      "level": 65,
+      "name": "Enraged Stance",
+      "description": "Deal more damage at the cost of defense (Only 1 stance can be active at one time)",
+      "cost": { "Raw Hematite": 1, "Fresh Egg": 5, "Antler": 5, "coins": 1000 },
+      "class": "fighter"
+    },
+    {
+      "level": 70,
+      "name": "Ingress",
+      "description": "Upgrade to Infuse; Adds damage",
+      "cost": { "Zanbato": 1, "Raw Ruby": 10, "Antler": 10, "coins": 1500 },
+      "class": "fighter"
+    },
+    {
+      "level": 75,
+      "name": "Spirit's Fury",
+      "description": "Upgrade to Mammoth's Fury; Melee damage buff",
+      "cost": { "Forbidden Fruit": 1, "coins": 10000 },
+      "class": "fighter"
+    },
+    {
+      "level": 80,
+      "name": "Crosscut",
+      "description": "Deal damage to 3 enemies in front of you",
+      "cost": {
+        "Zanbato": 1,
+        "Bandit's Knife": 1,
+        "Raw Ruby": 20,
+        "coins": 5000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": 99,
+      "name": "Doom Spike",
+      "description": "Deal damage to a single enemy at the cost of HP",
+      "cost": {
+        "Electra": 1,
+        "Raw Sapphire": 20,
+        "Fire Agate": 1,
+        "coins": 50000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": 99,
+      "name": "Fighter's Rage",
+      "description": "Advanced attack damage buff, has 3 different tiers",
+      "cost": {
+        "Hack": 1,
+        "Dragon Key": 1,
+        "Dragon's Heart": 1,
+        "coins": 50000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark I",
+      "name": "Salvation",
+      "description": "2k Heal",
+      "cost": { "Cannabis Leaf": 1, "coins": 10000 },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark 1",
+      "name": "Viper's Venom",
+      "description": "Enhanced weapon enchantment giving 6x damage multiplier",
+      "cost": {
+        "Dragon's Heart": 2,
+        "Electra": 2,
+        "Hack (Mark I)": 1,
+        "coins": 40000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark II",
+      "name": "Dragon's Flame",
+      "description": "Enhanced weapon enchantment giving 8x damage multiplier",
+      "cost": {
+        "Dragon's Heart": 4,
+        "Electra": 2,
+        "Hack ( Mark II)": 1,
+        "coins": 40000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark II",
+      "name": "Dragon's Breath",
+      "description": "3.2k Heal",
+      "cost": { "Cannabis Leaf": 1, "coins": 25000 },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark II",
+      "name": "Cleave",
+      "description": "4-way strong attack",
+      "cost": { "coins": 400000 },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark III",
+      "name": "Mending the Soul",
+      "description": "4k Heal",
+      "cost": { "Cannabis Leaf": 5, "coins": 25000 },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark III",
+      "name": "Dragon's Harness",
+      "description": "Enhanced weapon enchantment giving 10x damage multiplier",
+      "cost": { "coins": 80000 },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark III",
+      "name": "Dethrone",
+      "description": "Single target vita attack",
+      "cost": { "Jag": 1, "Hack": 1, "coins": 600000 },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark IV",
+      "name": "Dragon's Wraith",
+      "description": "Enhanced weapon enchantment giving 12x damage multiplier",
+      "cost": {
+        "Raw Malchite": 20,
+        "Raw Hematite": 20,
+        "Raw Sapphire": 100,
+        "Raw Ruby": 100,
+        "Hack (Mark IV)": 1,
+        "coins": 450000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark IV",
+      "name": "Lord's Vigor",
+      "description": "Vita Healing (add correct amount)",
+      "cost": {
+        "Dragon's Heart": 4,
+        "Electra": 4,
+        "Hack (Mark IV)": 1,
+        "coins": 450000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark IV",
+      "name": "Cyclone",
+      "description": "AOE Vita attack",
+      "cost": { "coins": 1000000 },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark V",
+      "name": "Master's Ingress",
+      "description": "Enhanced weapon enchantment giving 14x damage multiplier",
+      "cost": {
+        "Raw Malchite": 20,
+        "Raw Hematite": 20,
+        "Raw Sapphire": 100,
+        "Raw Ruby": 100,
+        "Hack (Mark V)": 1,
+        "coins": 1000000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark v",
+      "name": "Dragon's Strike",
+      "description": "AOE Vita attack",
+      "cost": {
+        "Hack (Mark V)": 1,
+        "Rune Key(Dragon)": 1,
+        "Dragon's heart": 1,
+        "coins": 400000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark VI",
+      "name": "Spirit's Blade",
+      "description": "Enhanced weapon enchantment giving 16x damage multiplier",
+      "cost": {
+        "Raw Malchite": 20,
+        "Raw Hematite": 20,
+        "Raw Sapphire": 100,
+        "Raw Ruby": 100,
+        "Hack (Mark VI)": 1,
+        "coins": 5000000
+      },
+      "class": "fighter"
+    },
+    {
+      "level": "Mark VII",
+      "name": "Master weapon",
+      "description": "Enhanced weapon enchantment giving 18x damage multiplier",
+      "cost": {
+        "Raw Malchite": 20,
+        "Raw Hematite": 20,
+        "Raw Sapphire": 100,
+        "Raw Ruby": 100,
+        "Hack (Mark VII)": 1,
+        "coins": 10000000
+      },
+      "class": "fighter"
+    }
+  ]
+}

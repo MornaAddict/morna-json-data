@@ -1,0 +1,351 @@
+{
+  "spells": [
+    {
+      "level": 5,
+      "name": "Minor Invisible",
+      "description": "Turn invisible increasing weapon damage",
+      "cost": { "Dead Rabbit": 10, "Acorn": 10, "coins": 50 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 9,
+      "name": "Heal Others",
+      "description": "Heal [XX] amount of HP",
+      "cost": { "Acorn": 70, "coins": 40 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 11,
+      "name": "Dagger Throw",
+      "description": "Single target ranged taunt (Minor Damage done to target)",
+      "cost": { "Aloe": 1, "Acorn": 50, "coins": 150 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 15,
+      "name": "Squirrel's Fury",
+      "description": "Increase attack damage",
+      "cost": { "Slime Stone": 1, "Flourspar": 1, "coins": 150 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 18,
+      "name": "Ambush",
+      "description": "Leap behind your target",
+      "cost": { "Dead Rat": 10, "coins": 500 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 24,
+      "name": "Flash Trap",
+      "description": "Set a trap on the ground that blinds an enemy",
+      "cost": { "Gold Carrot": 1, "coins": 250 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 25,
+      "name": "Detect Ambush",
+      "description": "Reveals traps",
+      "cost": {
+        "Light Fox Fur": 1,
+        "Red Fox Fur": 10,
+        "Flourspar": 2,
+        "Acorn": 100,
+        "coins": 250
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": 28,
+      "name": "Amnesia",
+      "description": "Makes enemies forget they saw you",
+      "cost": {
+        "Rabbit's Foot": 1,
+        "Black Fox Fur": 20,
+        "Acorn": 50,
+        "coins": 1200
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": 30,
+      "name": "Stag's Fury",
+      "description": "Upgrade from Squirrel's Fury; Increase damage",
+      "cost": {
+        "Light Fox Fur": 1,
+        "Red Fox Fur": 20,
+        "Acorn": 150,
+        "coins": 300
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": 34,
+      "name": "Invisible",
+      "description": "Upgrade from Minor Invisible; Increase damage",
+      "cost": { "Flourspar": 1, "Kumiho Tail": 1, "coins": 500 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 40,
+      "name": "Relief",
+      "description": "Restore 400 HP",
+      "cost": { "Cannabis Leaf": 1, "Acorn": 100, "coins": 300 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 45,
+      "name": "Mimic",
+      "description": "Take on the form of another",
+      "cost": { "Steel Chakram": 1, "coins": 500 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 50,
+      "name": "Stealth Stance",
+      "description": "Maintain stealth; not useable with invisible",
+      "cost": { "Katana": 1, "coins": 1000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 50,
+      "name": "Mangle",
+      "description": "Burst damage at the cost of HP",
+      "cost": { "Stiletto": 1, "Garnet": 2, "Acorn": 50, "coins": 500 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 56,
+      "name": "Lion's Fury",
+      "description": "Upgrade to Stag's Fury; Increases damage",
+      "cost": { "Katana": 1, "Rabbit's Foot": 1, "Acorn": 180, "coins": 1000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 66,
+      "name": "Spear Trap",
+      "description": "Moderate damage",
+      "cost": { "Gold Carrot": 3, "coins": 400 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 75,
+      "name": "Poisoned Shuriken",
+      "description": "Moderate AOE damage that stuns",
+      "cost": { "Raw Sapphire": 10, "Acorn": 190, "coins": 5000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 80,
+      "name": "Mammoth's Fury",
+      "description": "Upgrade to Lion's Fury; increases damagee",
+      "cost": { "Head Strong": 1, "coins": 10000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 99,
+      "name": "Sleep Trap",
+      "description": "Put your enemies to sleep",
+      "cost": { "Gold Carrot": 4, "coins": 10000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 99,
+      "name": "Assassinate",
+      "description": "Upgrade to Mangle; Burst damage",
+      "cost": {
+        "Whisper Bracelet": 1,
+        "Crimson Gauntlet": 1,
+        "Cult Staff": 1,
+        "coins": 50000
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": 99,
+      "name": "Vigor",
+      "description": "Heal 1,000 HP",
+      "cost": { "Cannabis Leaf": 1, "coins": 25000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": 99,
+      "name": "Scoundrel's Cunning",
+      "description": "Advanced attack damage buff, has 6 stages",
+      "cost": {
+        "Jag": 1,
+        "Run Key (Tiger)": 1,
+        "Pocketwatch": 1,
+        "coins": 50000
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark I",
+      "name": "Salvation",
+      "description": "Heal 2k HP",
+      "cost": { "Cannabis Leaf": 1, "coins": 10000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark I",
+      "name": "Race",
+      "description": "Jump 4 spaces",
+      "cost": { "coins": 100000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark I",
+      "name": "Enchant",
+      "description": "Enchants weapon to deal additional damage",
+      "cost": {
+        "Head Hunter": 2,
+        "Steel Thorn": 2,
+        "Jag (Mark I)": 1,
+        "coins": 40000
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark II",
+      "name": "Bladestorm",
+      "description": "Unleash a massive bladestorm!",
+      "cost": { "coins": 400000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark II",
+      "name": "Chance",
+      "description": "60% chance to cast invoke!",
+      "cost": { "Gold Carrot": 5, "Gold Acorn": 5, "coins": 250000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark II",
+      "name": "Shadow's Blade",
+      "description": "Enchants your weapon for bonus damage",
+      "cost": {
+        "Head Hunter": 4,
+        "Steel Thorn": 4,
+        "Jag (Mark II)": 1,
+        "coins": 60000
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark II",
+      "name": "Dragon's Breath",
+      "description": "Heals 3.2k HP",
+      "cost": { "Cannabis Leaf": 1, "coins": 25000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark II",
+      "name": "Shatter",
+      "description": "Your swings strike a cone in front of you",
+      "cost": { "Raw Ruby": 5, "coins": 2000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark III",
+      "name": "Mending of the Soul",
+      "description": "Heal 4k HP",
+      "cost": { "Cannabis Leaf": 5, "coins": 2000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark III",
+      "name": "Blade's Charm",
+      "description": "Enchant your weapon for bonus damage",
+      "cost": { "coins": 80000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark III",
+      "name": "Brutality",
+      "description": "Expend your life force to attack with Brutality!",
+      "cost": { "Jag": 1, "Hack": 1, "coins": 600000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark IV",
+      "name": "Shadow's Subterfuge",
+      "description": "Enchant your weapon for bonus damage",
+      "cost": {
+        "Raw Malchite": 20,
+        "Raw Hematite": 20,
+        "Raw Sapphire": 100,
+        "Raw Ruby": 100,
+        "Jag (Mark IV)": 1,
+        "coins": 450000
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark IV",
+      "name": "Storm of Misery",
+      "description": "Weaken enemies around you (Vex, bosses only)",
+      "cost": { "coins": 500000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark IV",
+      "name": "Lord's Vigor",
+      "description": "Heal 1% of maxmimum Vita",
+      "cost": {
+        "Head Hunter": 4,
+        "Steel Thorn": 4,
+        "Jag (Mark IV)": 1,
+        "coins": 450000
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark IV",
+      "name": "Swashbuckler Strike",
+      "description": "Ambush multiple foes",
+      "cost": { "coins": 1000000 },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark V",
+      "name": "Dagger's Polish",
+      "description": "Upgraded Enchant",
+      "cost": {
+        "Raw Malchite": 20,
+        "Raw Hematite": 20,
+        "Raw Sapphire": 100,
+        "Raw Ruby": 100,
+        "Jag (Mark V)": 1,
+        "coins": 1000000
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark V",
+      "name": "Tiger's Swipe",
+      "description": "Mana-based frontal cone attack",
+      "cost": {
+        "Jag (Mark V)": 1,
+        "Rune Key (Tiger)": 1,
+        "Pocketwatch": 1,
+        "coins": 400000
+      },
+      "class": "scoundrel"
+    },
+    {
+      "level": "Mark VI",
+      "name": "Dragon's Flame",
+      "description": "Upgraded Enchant",
+      "cost": {
+        "Raw Malchite": 20,
+        "Raw Hematite": 20,
+        "Raw Sapphire": 100,
+        "Raw Ruby": 100,
+        "Jag (Mark VI)": 1,
+        "coins": 5000000
+      },
+      "class": "scoundrel"
+    }
+  ]
+}

@@ -1,0 +1,2317 @@
+[
+  {
+    "Name": "Adept Blade",
+    "Durability": "100000",
+    "Vita": "2500",
+    "Mana": "500",
+    "Hit": "2",
+    "Dam": "5",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Special Info": "N/A",
+    "How to Obtain": "N/A",
+    "Damage": {
+      "S": "90m200",
+      "L": "90m200"
+    }
+  },
+  {
+    "Name": "Adept Dagger",
+    "Durability": "100000",
+    "Vita": "1000",
+    "Mana": "1250",
+    "Hit": "2",
+    "Dam": "1",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Special Info": "N/A",
+    "How to Obtain": "N/A",
+    "Damage": {
+      "S": "90m200",
+      "L": "90m200"
+    }
+  },
+  {
+    "Name": "Adept Quarterstaff",
+    "Durability": "100000",
+    "Vita": "500",
+    "Mana": "2500",
+    "Hit": "2",
+    "Dam": "0",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "90m200",
+      "L": "90m200"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Adept Staff",
+    "Durability": "100000",
+    "Vita": "1450",
+    "Mana": "725",
+    "Hit": "2",
+    "Dam": "4",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "90m200",
+      "L": "90m200"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Apprentice Blade",
+    "Durability": "50000",
+    "Vita": "1000",
+    "Mana": "0",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "4",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "75m95",
+      "L": "75m95"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Apprentice Bow",
+    "Durability": "50000",
+    "Vita": "500",
+    "Mana": "500",
+    "Hit": "2",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "4",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "0",
+    "Damage": {
+      "S": "150m250",
+      "L": "150m250"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Apprentice Fan",
+    "Durability": "50000",
+    "Vita": "0",
+    "Mana": "1000",
+    "Hit": "2",
+    "Dam": "0",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "10",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "75m95",
+      "L": "75m95"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Artisian Blade",
+    "Durability": "150000",
+    "Vita": "30000",
+    "Mana": "0",
+    "Hit": "3",
+    "Dam": "6",
+    "Might": "8",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "4",
+    "Damage": {
+      "S": "95m500",
+      "L": "95m500"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Artisian Bow",
+    "Durability": "150000",
+    "Vita": "15000",
+    "Mana": "15000",
+    "Hit": "2",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "8",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "4",
+    "Damage": {
+      "S": "500m600",
+      "L": "500m600"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Artisian Fan",
+    "Durability": "150000",
+    "Vita": "0",
+    "Mana": "30000",
+    "Hit": "2",
+    "Dam": "0",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "14",
+    "Class": "Any Class",
+    "Mark": "4",
+    "Damage": {
+      "S": "95m500",
+      "L": "95m500"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "ASAK's Breakfast",
+    "Durability": "250000",
+    "Vita": "50000",
+    "Mana": "50000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "5",
+    "Damage": {
+      "S": "225m750",
+      "L": "225m750"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "ASAK's Dagger",
+    "Durability": "250000",
+    "Vita": "45000",
+    "Mana": "40000",
+    "Hit": "8",
+    "Dam": "5",
+    "Might": "2",
+    "Grace": "4",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "5",
+    "Damage": {
+      "S": "575m1050",
+      "L": "575m1050"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "ASAK's Reach",
+    "Durability": "250000",
+    "Vita": "60000",
+    "Mana": "30000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "4",
+    "Class": "Any Class",
+    "Mark": "5",
+    "Damage": {
+      "S": "225m750",
+      "L": "225m750"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "ASAK's Sigil",
+    "Durability": "250000",
+    "Vita": "60000",
+    "Mana": "35000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "5",
+    "Grace": "5",
+    "Will": "13",
+    "Class": "Poet",
+    "Mark": "5",
+    "Damage": {
+      "S": "140m750",
+      "L": "140m750"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "ASAK's Sword",
+    "Durability": "250000",
+    "Vita": "115000",
+    "Mana": "10000",
+    "Hit": "2",
+    "Dam": "8",
+    "Might": "5",
+    "Grace": "3",
+    "Will": "2",
+    "Class": "Warrior",
+    "Mark": "5",
+    "Damage": {
+      "S": "225m750",
+      "L": "225m750"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Aspirant Blade",
+    "Durability": "75000",
+    "Vita": "5000",
+    "Mana": "0",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "5",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "80m200",
+      "L": "80m200"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Aspirant Bow",
+    "Durability": "75000",
+    "Vita": "2500",
+    "Mana": "2500",
+    "Hit": "2",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "5",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "1",
+    "Damage": {
+      "S": "200m300",
+      "L": "200m300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Aspirant Fan",
+    "Durability": "75000",
+    "Vita": "0",
+    "Mana": "5000",
+    "Hit": "2",
+    "Dam": "0",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "11",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "80m200",
+      "L": "80m200"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Axe",
+    "Durability": "10000",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "1m2",
+      "L": "1m2"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Ban Hammer",
+    "Durability": "5000000",
+    "Vita": "2750",
+    "Mana": "2750",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "4",
+    "Class": "GM",
+    "Mark": "0",
+    "Damage": {
+      "S": "215m240",
+      "L": "215m240"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Bandit's Knife",
+    "Durability": "50000",
+    "Vita": "200",
+    "Mana": "100",
+    "Hit": "2",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "40m80",
+      "L": "40m80"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Bat Slayer",
+    "Durability": "10000",
+    "Vita": "25",
+    "Mana": "25",
+    "Hit": "0",
+    "Dam": "1",
+    "Might": "1",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "15m25",
+      "L": "15m25"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Big Axe",
+    "Durability": "50000",
+    "Hit": "1",
+    "Dam": "2",
+    "Might": "1",
+    "Grace": "1",
+    "Will": "1",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "65m95",
+      "L": "65m95"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark I)",
+    "Durability": "250000",
+    "Vita": "10000",
+    "Mana": "10000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "2",
+    "Will": "2",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "95m200",
+      "L": "95m200"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark II)",
+    "Durability": "250000",
+    "Vita": "20000",
+    "Mana": "20000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "2",
+    "Will": "2",
+    "Class": "Any Class",
+    "Mark": "2",
+    "Damage": {
+      "S": "100m300",
+      "L": "100m300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark III)",
+    "Durability": "250000",
+    "Vita": "30000",
+    "Mana": "30000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "3",
+    "Damage": {
+      "S": "105m400",
+      "L": "105m400"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark IV)",
+    "Durability": "250000",
+    "Vita": "40000",
+    "Mana": "40000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "4",
+    "Damage": {
+      "S": "110m500",
+      "L": "110m500"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark IX)",
+    "Durability": "250000",
+    "Vita": "90000",
+    "Mana": "90000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "5",
+    "Grace": "5",
+    "Will": "5",
+    "Class": "Any Class",
+    "Mark": "9",
+    "Damage": {
+      "S": "150m1000",
+      "L": "150m1000"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark V)",
+    "Durability": "250000",
+    "Vita": "50000",
+    "Mana": "50000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "5",
+    "Damage": {
+      "S": "115m600",
+      "L": "115m600"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark VI)",
+    "Durability": "250000",
+    "Vita": "60000",
+    "Mana": "60000",
+    "Hit": "4",
+    "Dam": "4",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "4",
+    "Class": "Any Class",
+    "Mark": "6",
+    "Damage": {
+      "S": "120m700",
+      "L": "120m700"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark VII)",
+    "Durability": "250000",
+    "Vita": "70000",
+    "Mana": "70000",
+    "Hit": "4",
+    "Dam": "4",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "4",
+    "Class": "Any Class",
+    "Mark": "7",
+    "Damage": {
+      "S": "125m800",
+      "L": "125m800"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark VIII)",
+    "Durability": "250000",
+    "Vita": "80000",
+    "Mana": "80000",
+    "Hit": "4",
+    "Dam": "4",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "4",
+    "Class": "Any Class",
+    "Mark": "8",
+    "Damage": {
+      "S": "130m900",
+      "L": "130m900"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera (Mark X)",
+    "Durability": "250000",
+    "Vita": "100000",
+    "Mana": "100000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "5",
+    "Grace": "5",
+    "Will": "5",
+    "Class": "Any Class",
+    "Mark": "10",
+    "Damage": {
+      "S": "200m1100",
+      "L": "200m1100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blade of Alera",
+    "Durability": "250000",
+    "Vita": "1000",
+    "Mana": "1000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "2",
+    "Will": "2",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "90m100",
+      "L": "90m100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blood Dagger",
+    "Durability": "80000",
+    "Vita": "3000",
+    "Mana": "1500",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "80m120",
+      "L": "80m120"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Blood Spiritstaff",
+    "Durability": "80000",
+    "Vita": "1000",
+    "Mana": "2500",
+    "Hit": "2",
+    "Dam": "3",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "1",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "80m120",
+      "L": "80m120"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Bloodcursed Longsword",
+    "Durability": "160000",
+    "Vita": "6000",
+    "Mana": "3000",
+    "Hit": "1",
+    "Dam": "2",
+    "Might": "1",
+    "Grace": "1",
+    "Will": "1",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "85m220",
+      "L": "85m220"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Buster Greatsword",
+    "Durability": "80000",
+    "Vita": "6000",
+    "Mana": "0",
+    "Hit": "1",
+    "Dam": "3",
+    "Might": "3",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "80m120",
+      "L": "80m120"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Candle",
+    "Durability": "1000",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "1m5",
+      "L": "1m5"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Cedar Cudgel",
+    "Durability": "40000",
+    "Hit": "0",
+    "Dam": "1",
+    "Might": "1",
+    "Grace": "1",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "40m60",
+      "L": "40m60"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Charged Crucifix",
+    "Durability": "80000",
+    "Vita": "0",
+    "Mana": "3000",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "80m120",
+      "L": "80m120"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Chopper",
+    "Durability": "100000",
+    "Vita": "800",
+    "Mana": "0",
+    "Hit": "1",
+    "Dam": "1",
+    "Might": "4",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "60m100",
+      "L": "60m100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Clairvoyant Glaive",
+    "Durability": "240000",
+    "Vita": "8000",
+    "Mana": "8000",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "2",
+    "Damage": {
+      "S": "90m320",
+      "L": "90m320"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Cleaver",
+    "Durability": "25000",
+    "Hit": "4",
+    "Dam": "3",
+    "Class": "Warrior",
+    "Mark": "0",
+    "Damage": {
+      "S": "60m91",
+      "L": "60m91"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Colorful Glaive",
+    "Durability": "160000",
+    "Vita": "4000",
+    "Mana": "4000",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "2",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "85m220",
+      "L": "85m220"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Crafted Blade",
+    "Durability": "16000",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "20m90",
+      "L": "20m90"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Crafted Sword",
+    "Durability": "4000",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "10m15",
+      "L": "10m15"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Cult Staff",
+    "Durability": "20000",
+    "Vita": "0",
+    "Mana": "200",
+    "Hit": "0",
+    "Dam": "1",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "25m50",
+      "L": "25m50"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Cut",
+    "Durability": "1000000",
+    "Vita": "1",
+    "Mana": "1",
+    "Hit": "0",
+    "Dam": "1",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "1m2",
+      "L": "1m2"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Deadly Wood",
+    "Durability": "12000",
+    "Hit": "1",
+    "Dam": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "30m70",
+      "L": "30m70"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Delmar's Attack Dogs!!",
+    "Durability": "5000000",
+    "Vita": "10000000",
+    "Mana": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "10000000m20000000",
+      "L": "10000000m20000000"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Deluded Impaler",
+    "Durability": "80000",
+    "Vita": "5000",
+    "Mana": "500",
+    "Hit": "1",
+    "Dam": "2",
+    "Might": "3",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "80m120",
+      "L": "80m120"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Demon's Pike",
+    "Durability": "100000",
+    "Hit": "2",
+    "Dam": "0",
+    "Might": "2",
+    "Grace": "2",
+    "Will": "10",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "60m95",
+      "L": "60m95"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark I)",
+    "Durability": "250000",
+    "Vita": "5000",
+    "Mana": "10000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "1",
+    "Grace": "3",
+    "Will": "1",
+    "Class": "Rogue",
+    "Mark": "1",
+    "Damage": {
+      "S": "250m350",
+      "L": "250m350"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark II)",
+    "Durability": "250000",
+    "Vita": "10000",
+    "Mana": "20000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "1",
+    "Grace": "3",
+    "Will": "1",
+    "Class": "Rogue",
+    "Mark": "2",
+    "Damage": {
+      "S": "350m450",
+      "L": "350m450"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark III)",
+    "Durability": "250000",
+    "Vita": "20000",
+    "Mana": "25000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "1",
+    "Grace": "3",
+    "Will": "1",
+    "Class": "Rogue",
+    "Mark": "3",
+    "Damage": {
+      "S": "450m800",
+      "L": "450m800"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark IV)",
+    "Durability": "250000",
+    "Vita": "40000",
+    "Mana": "30000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "2",
+    "Grace": "4",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "4",
+    "Damage": {
+      "S": "550m900",
+      "L": "550m900"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark IX)",
+    "Durability": "350000",
+    "Vita": "80000",
+    "Mana": "65000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "2",
+    "Grace": "5",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "9",
+    "Damage": {
+      "S": "700m1250",
+      "L": "700m1250"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark V)",
+    "Durability": "250000",
+    "Vita": "45000",
+    "Mana": "40000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "2",
+    "Grace": "4",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "5",
+    "Damage": {
+      "S": "550m1000",
+      "L": "550m1000"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark VI)",
+    "Durability": "275000",
+    "Vita": "50000",
+    "Mana": "45000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "2",
+    "Grace": "4",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "6",
+    "Damage": {
+      "S": "550m1100",
+      "L": "550m1100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark VII)",
+    "Durability": "300000",
+    "Vita": "60000",
+    "Mana": "50000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "2",
+    "Grace": "4",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "7",
+    "Damage": {
+      "S": "600m1150",
+      "L": "600m1150"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark VIII)",
+    "Durability": "325000",
+    "Vita": "70000",
+    "Mana": "55000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "2",
+    "Grace": "5",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "8",
+    "Damage": {
+      "S": "600m1200",
+      "L": "600m1200"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow (Mark X)",
+    "Durability": "375000",
+    "Vita": "100000",
+    "Mana": "75000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "2",
+    "Grace": "5",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "10",
+    "Damage": {
+      "S": "700m1300",
+      "L": "700m1300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Bow",
+    "Durability": "200000",
+    "Vita": "500",
+    "Mana": "1000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "1",
+    "Grace": "3",
+    "Will": "1",
+    "Class": "Rogue",
+    "Mark": "0",
+    "Damage": {
+      "S": "175m225",
+      "L": "175m225"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark I)",
+    "Durability": "250000",
+    "Vita": "8000",
+    "Mana": "10000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "2",
+    "Will": "10",
+    "Class": "Poet",
+    "Mark": "1",
+    "Damage": {
+      "S": "110m300",
+      "L": "110m300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark II)",
+    "Durability": "250000",
+    "Vita": "12000",
+    "Mana": "20000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "11",
+    "Class": "Poet",
+    "Mark": "2",
+    "Damage": {
+      "S": "115m400",
+      "L": "115m400"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark III)",
+    "Durability": "250000",
+    "Vita": "25000",
+    "Mana": "25000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "11",
+    "Class": "Poet",
+    "Mark": "3",
+    "Damage": {
+      "S": "120m500",
+      "L": "120m500"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark IV)",
+    "Durability": "250000",
+    "Vita": "50000",
+    "Mana": "30000",
+    "Hit": "4",
+    "Dam": "4",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "11",
+    "Class": "Poet",
+    "Mark": "4",
+    "Damage": {
+      "S": "125m600",
+      "L": "125m600"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark IX)",
+    "Durability": "350000",
+    "Vita": "100000",
+    "Mana": "55000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "5",
+    "Grace": "5",
+    "Will": "13",
+    "Class": "Poet",
+    "Mark": "9",
+    "Damage": {
+      "S": "225m1100",
+      "L": "225m1100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark V)",
+    "Durability": "250000",
+    "Vita": "60000",
+    "Mana": "35000",
+    "Hit": "4",
+    "Dam": "4",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "12",
+    "Class": "Poet",
+    "Mark": "5",
+    "Damage": {
+      "S": "130m700",
+      "L": "130m700"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark VI)",
+    "Durability": "275000",
+    "Vita": "70000",
+    "Mana": "40000",
+    "Hit": "4",
+    "Dam": "4",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "12",
+    "Class": "Poet",
+    "Mark": "6",
+    "Damage": {
+      "S": "150m800",
+      "L": "150m800"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark VII)",
+    "Durability": "300000",
+    "Vita": "80000",
+    "Mana": "45000",
+    "Hit": "4",
+    "Dam": "4",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "12",
+    "Class": "Poet",
+    "Mark": "7",
+    "Damage": {
+      "S": "175m900",
+      "L": "175m900"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark VIII)",
+    "Durability": "325000",
+    "Vita": "90000",
+    "Mana": "50000",
+    "Hit": "4",
+    "Dam": "4",
+    "Might": "5",
+    "Grace": "5",
+    "Will": "13",
+    "Class": "Poet",
+    "Mark": "8",
+    "Damage": {
+      "S": "200m1000",
+      "L": "200m1000"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel (Mark X)",
+    "Durability": "375000",
+    "Vita": "125000",
+    "Mana": "60000",
+    "Hit": "5",
+    "Dam": "5",
+    "Might": "5",
+    "Grace": "5",
+    "Will": "13",
+    "Class": "Poet",
+    "Mark": "10",
+    "Damage": {
+      "S": "250m1200",
+      "L": "250m1200"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Cudgel",
+    "Durability": "200000",
+    "Vita": "500",
+    "Mana": "1000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "2",
+    "Will": "10",
+    "Class": "Poet",
+    "Mark": "0",
+    "Damage": {
+      "S": "100m150",
+      "L": "100m150"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark I)",
+    "Durability": "250000",
+    "Vita": "5000",
+    "Mana": "10000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "1",
+    "Grace": "3",
+    "Will": "1",
+    "Class": "Rogue",
+    "Mark": "1",
+    "Damage": {
+      "S": "250m350",
+      "L": "250m350"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark II)",
+    "Durability": "250000",
+    "Vita": "10000",
+    "Mana": "20000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "1",
+    "Grace": "3",
+    "Will": "1",
+    "Class": "Rogue",
+    "Mark": "2",
+    "Damage": {
+      "S": "350m450",
+      "L": "350m450"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark III)",
+    "Durability": "250000",
+    "Vita": "20000",
+    "Mana": "25000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "1",
+    "Grace": "3",
+    "Will": "1",
+    "Class": "Rogue",
+    "Mark": "3",
+    "Damage": {
+      "S": "450m800",
+      "L": "450m800"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark IV)",
+    "Durability": "250000",
+    "Vita": "40000",
+    "Mana": "30000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "4",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "4",
+    "Damage": {
+      "S": "550m900",
+      "L": "550m900"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark IX)",
+    "Durability": "350000",
+    "Vita": "80000",
+    "Mana": "65000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "5",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "9",
+    "Damage": {
+      "S": "700m1250",
+      "L": "700m1250"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark V)",
+    "Durability": "250000",
+    "Vita": "45000",
+    "Mana": "40000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "4",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "5",
+    "Damage": {
+      "S": "550m1000",
+      "L": "550m1000"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark VI)",
+    "Durability": "275000",
+    "Vita": "50000",
+    "Mana": "45000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "4",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "6",
+    "Damage": {
+      "S": "550m1100",
+      "L": "550m1100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark VII)",
+    "Durability": "300000",
+    "Vita": "60000",
+    "Mana": "50000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "4",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "7",
+    "Damage": {
+      "S": "600m1150",
+      "L": "600m1150"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark VIII)",
+    "Durability": "325000",
+    "Vita": "70000",
+    "Mana": "55000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "5",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "8",
+    "Damage": {
+      "S": "600m1200",
+      "L": "600m1200"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger (Mark X)",
+    "Durability": "375000",
+    "Vita": "100000",
+    "Mana": "75000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "5",
+    "Will": "2",
+    "Class": "Rogue",
+    "Mark": "10",
+    "Damage": {
+      "S": "700m1300",
+      "L": "700m1300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Dagger",
+    "Durability": "200000",
+    "Vita": "500",
+    "Mana": "1000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "1",
+    "Grace": "3",
+    "Will": "1",
+    "Class": "Rogue",
+    "Mark": "0",
+    "Damage": {
+      "S": "175m225",
+      "L": "175m225"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Spear (Mark I)",
+    "Durability": "250000",
+    "Vita": "5000",
+    "Mana": "2500",
+    "Hit": "1",
+    "Dam": "5",
+    "Might": "2",
+    "Grace": "2",
+    "Will": "2",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "120m300",
+      "L": "120m300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Spear (Mark II)",
+    "Durability": "250000",
+    "Vita": "10000",
+    "Mana": "5000",
+    "Hit": "1",
+    "Dam": "5",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "2",
+    "Damage": {
+      "S": "140m400",
+      "L": "140m400"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Spear (Mark III)",
+    "Durability": "250000",
+    "Vita": "20000",
+    "Mana": "10000",
+    "Hit": "2",
+    "Dam": "6",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "3",
+    "Damage": {
+      "S": "160m500",
+      "L": "160m500"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Spear (Mark IV)",
+    "Durability": "250000",
+    "Vita": "40000",
+    "Mana": "20000",
+    "Hit": "2",
+    "Dam": "6",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "3",
+    "Class": "Any Class",
+    "Mark": "4",
+    "Damage": {
+      "S": "180m600",
+      "L": "180m600"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Spear (Mark IX)",
+    "Durability": "350000",
+    "Vita": "140000",
+    "Mana": "70000",
+    "Hit": "3",
+    "Dam": "7",
+    "Might": "5",
+    "Grace": "5",
+    "Will": "5",
+    "Class": "Any Class",
+    "Mark": "9",
+    "Damage": {
+      "S": "240m1100",
+      "L": "240m1100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Spear (Mark V)",
+    "Durability": "250000",
+    "Vita": "60000",
+    "Mana": "30000",
+    "Hit": "2",
+    "Dam": "6",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "4",
+    "Class": "Any Class",
+    "Mark": "5",
+    "Damage": {
+      "S": "200m700",
+      "L": "200m700"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Diamond Spear (Mark VI)",
+    "Durability": "275000",
+    "Vita": "80000",
+    "Mana": "40000",
+    "Hit": "2",
+    "Dam": "6",
+    "Might": "4",
+    "Grace": "4",
+    "Will": "4",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "210m800",
+      "L": "210m800"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Stone Bakora",
+    "Durability": "250000",
+    "Vita": "250",
+    "Mana": "250",
+    "Hit": "1",
+    "Dam": "1",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "15",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "50m130",
+      "L": "50m130"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Sunblade",
+    "Durability": "200000",
+    "Vita": "0",
+    "Mana": "400",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "3",
+    "Grace": "3",
+    "Will": "6",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "60m100",
+      "L": "60m100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Talk the Edge",
+    "Durability": "80000",
+    "Vita": "4000",
+    "Mana": "1000",
+    "Hit": "2",
+    "Dam": "1",
+    "Might": "2",
+    "Grace": "1",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "80m120",
+      "L": "80m120"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Tight Twisted Blade",
+    "Durability": "9000",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "20m36",
+      "L": "20m36"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Tin Sword",
+    "Durability": "50000",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "40m75",
+      "L": "40m75"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Tormented Impaler",
+    "Durability": "160000",
+    "Vita": "10000",
+    "Mana": "1000",
+    "Hit": "1",
+    "Dam": "3",
+    "Might": "3",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "85m220",
+      "L": "85m220"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Training Cane",
+    "Durability": "10000",
+    "Vita": "0",
+    "Mana": "50",
+    "Hit": "0",
+    "Dam": "1",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "2",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "5m10",
+      "L": "5m10"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Training Dagger",
+    "Durability": "2500",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "10m12",
+      "L": "10m12"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Trident",
+    "Durability": "20000",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "25m80",
+      "L": "25m80"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Twilight Glaive",
+    "Durability": "80000",
+    "Vita": "2000",
+    "Mana": "2000",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "2",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "80m120",
+      "L": "80m120"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Vanity Scepter",
+    "Durability": "250000",
+    "Vita": "8000",
+    "Mana": "10000",
+    "Hit": "3",
+    "Dam": "3",
+    "Might": "2",
+    "Grace": "2",
+    "Will": "10",
+    "Class": "Poet",
+    "Mark": "1",
+    "Damage": {
+      "S": "110m300",
+      "L": "110m300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Vanity Scimitar",
+    "Durability": "250000",
+    "Vita": "11000",
+    "Mana": "0",
+    "Hit": "2",
+    "Dam": "8",
+    "Might": "3",
+    "Grace": "1",
+    "Will": "1",
+    "Class": "Warrior",
+    "Mark": "1",
+    "Damage": {
+      "S": "120m300",
+      "L": "120m300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Vanity Sword",
+    "Durability": "250000",
+    "Vita": "5000",
+    "Mana": "10000",
+    "Hit": "8",
+    "Dam": "3",
+    "Might": "1",
+    "Grace": "3",
+    "Will": "1",
+    "Class": "Rogue",
+    "Mark": "1",
+    "Damage": {
+      "S": "250m350",
+      "L": "250m350"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Vanity Wand",
+    "Durability": "250000",
+    "Vita": "0",
+    "Mana": "20000",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "13",
+    "Class": "Mage",
+    "Mark": "1",
+    "Damage": {
+      "S": "120m300",
+      "L": "120m300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Vilifier",
+    "Durability": "100000",
+    "Vita": "500",
+    "Mana": "250",
+    "Hit": "1",
+    "Dam": "0",
+    "Might": "3",
+    "Grace": "0",
+    "Will": "6",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "60m100",
+      "L": "60m100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Virtuoso Blade",
+    "Durability": "175000",
+    "Vita": "40000",
+    "Mana": "0",
+    "Hit": "3",
+    "Dam": "7",
+    "Might": "9",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "5",
+    "Damage": {
+      "S": "100m600",
+      "L": "100m600"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Virtuoso Bow",
+    "Durability": "175000",
+    "Vita": "20000",
+    "Mana": "20000",
+    "Hit": "2",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "9",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "5",
+    "Damage": {
+      "S": "500m700",
+      "L": "500m700"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Virtuoso Fan",
+    "Durability": "175000",
+    "Vita": "0",
+    "Mana": "40000",
+    "Hit": "2",
+    "Dam": "0",
+    "Might": "0",
+    "Grace": "0",
+    "Will": "15",
+    "Class": "Any Class",
+    "Mark": "5",
+    "Damage": {
+      "S": "100m600",
+      "L": "100m600"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Walk the Edge",
+    "Durability": "160000",
+    "Vita": "8000",
+    "Mana": "2000",
+    "Hit": "2",
+    "Dam": "2",
+    "Might": "2",
+    "Grace": "1",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "1",
+    "Damage": {
+      "S": "85m220",
+      "L": "85m220"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Well Crafted Blade",
+    "Durability": "17500",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "20m91",
+      "L": "20m91"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Well Crafted Sword",
+    "Durability": "5000",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "10m16",
+      "L": ""
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Whacker",
+    "Durability": "5000000",
+    "Might": "333",
+    "Grace": "333",
+    "Will": "333",
+    "Class": "GM",
+    "Mark": "0",
+    "Damage": {
+      "S": "1m1000000",
+      "L": "1m1000000"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Wildcat's Reach",
+    "Durability": "20000",
+    "Hit": "3",
+    "Dam": "1",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "90m100",
+      "L": "90m100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Windsong Longsword",
+    "Durability": "80000",
+    "Vita": "3000",
+    "Mana": "1500",
+    "Hit": "1",
+    "Dam": "1",
+    "Might": "1",
+    "Grace": "1",
+    "Will": "1",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "80m120",
+      "L": "80m120"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark I)",
+    "Durability": "150000",
+    "Vita": "2500",
+    "Mana": "2500",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "1",
+    "Damage": {
+      "S": "200m300",
+      "L": "200m300"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark II)",
+    "Durability": "175000",
+    "Vita": "5000",
+    "Mana": "5000",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "2",
+    "Damage": {
+      "S": "300m400",
+      "L": "300m400"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark III)",
+    "Durability": "200000",
+    "Vita": "10000",
+    "Mana": "10000",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "3",
+    "Damage": {
+      "S": "400m500",
+      "L": "400m500"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark IV)",
+    "Durability": "225000",
+    "Vita": "15000",
+    "Mana": "15000",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "4",
+    "Damage": {
+      "S": "500m600",
+      "L": "500m600"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark IX)",
+    "Durability": "350000",
+    "Vita": "40000",
+    "Mana": "40000",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "9",
+    "Damage": {
+      "S": "600m1100",
+      "L": "600m1100"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark V)",
+    "Durability": "250000",
+    "Vita": "20000",
+    "Mana": "20000",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "5",
+    "Damage": {
+      "S": "500m700",
+      "L": "500m700"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark VI)",
+    "Durability": "275000",
+    "Vita": "25000",
+    "Mana": "25000",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "6",
+    "Damage": {
+      "S": "500m800",
+      "L": "500m800"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark VII)",
+    "Durability": "300000",
+    "Vita": "30000",
+    "Mana": "30000",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "7",
+    "Damage": {
+      "S": "550m900",
+      "L": "550m900"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark VIII)",
+    "Durability": "325000",
+    "Vita": "35000",
+    "Mana": "35000",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "8",
+    "Damage": {
+      "S": "550m1000",
+      "L": "550m1000"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow (Mark X)",
+    "Durability": "375000",
+    "Vita": "50000",
+    "Mana": "50000",
+    "Hit": "3",
+    "Dam": "2",
+    "Might": "0",
+    "Grace": "2",
+    "Will": "0",
+    "Class": "Rogue",
+    "Mark": "10",
+    "Damage": {
+      "S": "600m1200",
+      "L": "600m1200"
+    },
+    "Special Info": "",
+    "How to Obtain": ""
+  },
+  {
+    "Name": "Woodlands Bow",
+    "Durability": "65000",
+    "Vita": "200",
+    "Mana": "0",
+    "Hit": "0",
+    "Dam": "3",
+    "Might": "1",
+    "Grace": "0",
+    "Will": "0",
+    "Class": "Any Class",
+    "Mark": "0",
+    "Damage": {
+      "S": "60m95",
+      "L": "60m95"
+    },
+    "Special Info": "N/A",
+    "How to Obtain": "N/A"
+  }
+]

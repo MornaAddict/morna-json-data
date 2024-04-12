@@ -1,0 +1,244 @@
+{
+  "spells": [
+    {
+      "level": 5,
+      "name": "Stag's Fury",
+      "description": "Increases attack damage",
+      "cost": { "Dead Rabbit": 10, "Acorn": 10, "coins": 25 },
+      "class": "priest"
+    },
+    {
+      "level": 5,
+      "name": "Minor Heal",
+      "description": "Heal [XX] amount of target's HP",
+      "cost": { "Chestnut": 5, "coins": 25 },
+      "class": "priest"
+    },
+    {
+      "level": 9,
+      "name": "Invoke",
+      "description": "Sacrifice Vita to create Mana",
+      "cost": { "Mead": 1, "Squid Ink": 1, "coins": 50 },
+      "class": "priest"
+    },
+    {
+      "level": 11,
+      "name": "Flare",
+      "description": "Single target taunt; Minor damage",
+      "cost": { "Aloe": 1, "Acorn": 50, "coins": 150 },
+      "class": "priest"
+    },
+    {
+      "level": 11,
+      "name": "Bop",
+      "description": "Single target melee attack; can crit often",
+      "cost": { "Red Wine": 1, "Dead Rabbit": 10, "Acorn": 20, "coins": 100 },
+      "class": "priest"
+    },
+    {
+      "level": 15,
+      "name": "Sanctuary",
+      "description": "Magical armor; Removes [XX] amount of AC to target",
+      "cost": { "Squid Ink": 1, "Talisman": 1, "coins": 150 },
+      "class": "priest"
+    },
+    {
+      "level": 18,
+      "name": "Lion's Fury",
+      "description": "Upgrade to Stag's Fury; Increases damage",
+      "cost": { "Apprentice Leathers": 1, "Snake meat": 20, "coins": 100 },
+      "class": "priest"
+    },
+    {
+      "level": 20,
+      "name": "Restore Vision",
+      "description": "Removes Blind",
+      "cost": { "Cannabis Leaf": 1, "coins": 250 },
+      "class": "priest"
+    },
+    {
+      "level": 22,
+      "name": "Enchant",
+      "description": "Enchant your weapon to increase damage",
+      "cost": { "Stiletto": 1, "Antler": 5, "Black Fox Fur": 10, "coins": 150 },
+      "class": "priest"
+    },
+    {
+      "level": 25,
+      "name": "Heal",
+      "description": "Restores [XX] amount of HP to target",
+      "cost": { "Squid Ink": 1, "Snake Meat": 10, "coins": 200 },
+      "class": "priest"
+    },
+    {
+      "level": 25,
+      "name": "Purge",
+      "description": "Removes Poison from target",
+      "cost": { "Mead": 1, "Snake Meat": 10, "coins": 100 },
+      "class": "priest"
+    },
+    {
+      "level": 25,
+      "name": "Atone",
+      "description": "Removes Curses from target",
+      "cost": { "Talisman": 1, "Gold Acorn": 1, "coins": 100 },
+      "class": "priest"
+    },
+    {
+      "level": 30,
+      "name": "Inspire",
+      "description": "Give most of your Mana to your target",
+      "cost": { "Garnet": 1, "Gold Acorn": 1, "coins": 150 },
+      "class": "priest"
+    },
+    {
+      "level": 36,
+      "name": "Resurrect",
+      "description": "Bring a dead player back to life",
+      "cost": {
+        "Flourspar": 1,
+        "Light Fox Fur": 5,
+        "Red Fox Fur": 15,
+        "coins": 1000
+      },
+      "class": "priest"
+    },
+    {
+      "level": 40,
+      "name": "Mammoth's Fury",
+      "description": "Upgrade to Lion's Fury; Melee damage buff",
+      "cost": { "Eden Ring": 1, "coins": 1000 },
+      "class": "priest"
+    },
+    {
+      "level": 40,
+      "name": "Anoint",
+      "description": "Restores [XX] amount of HP to target",
+      "cost": { "Garnet": 1, "Red Wine": 1, "coins": 1000 },
+      "class": "priest"
+    },
+    {
+      "level": 45,
+      "name": "Infuse",
+      "description": "Upgrade from Enchant; Increases damage",
+      "cost": { "Cannabis Leaf": 1, "Black Fox Fur": 20, "coins": 500 },
+      "class": "priest"
+    },
+    {
+      "level": 45,
+      "name": "Holy Aura",
+      "description": "Restore [XX] Vita over time to party members",
+      "cost": { "Raw Ruby": 5, "coins": 1000 },
+      "class": "priest"
+    },
+    {
+      "level": 50,
+      "name": "Retribution",
+      "description": "Target-able single target burst damage",
+      "cost": { "Ring of Prevention": 1, "Green Torch": 1, "coins": 2000 },
+      "class": "priest"
+    },
+    {
+      "level": 50,
+      "name": "Scourge",
+      "description": "Curses an enemy; Adds [XX] amount of AC to target (Only usable on bosses and PVP)",
+      "cost": { "Raw Ruby": 2, "Acorn": 80, "coins": 1000 },
+      "class": "priest"
+    },
+    {
+      "level": 50,
+      "name": "Dispel",
+      "description": "Removes all spells from target",
+      "cost": { "Green Torch": 1, "coins": 1000 },
+      "class": "priest"
+    },
+    {
+      "level": 65,
+      "name": "Spirit's Fury",
+      "description": "Upgrade to Mammoth's Fury; Melee damage buff",
+      "cost": { "Cult Staff": 1, "Acorn": 80, "coins": 1000 },
+      "class": "priest"
+    },
+    {
+      "level": 70,
+      "name": "Ingress",
+      "description": "Upgrade to Infuse; Adds damage",
+      "cost": { "Head Strong": 1, "Cannabis Leaf": 1, "coins": 1500 },
+      "class": "priest"
+    },
+    {
+      "level": 95,
+      "name": "River of Recovery",
+      "description": "Restores [XX] amount of HP to target",
+      "cost": {
+        "Master Vita Potion": 1,
+        "Raw Sapphire": 1,
+        "Acorn": 100,
+        "coins": 5000
+      },
+      "class": "priest"
+    },
+    {
+      "level": 99,
+      "name": "Lesser Restore",
+      "description": "Restore health of target based on current % of Mana",
+      "cost": {
+        "Cult Staff": 1,
+        "Dead Rabbit": 100,
+        "Acorn": 200,
+        "coins": 100000
+      },
+      "class": "priest"
+    },
+    {
+      "level": 99,
+      "name": "Priest's Vengeance",
+      "description": "Leveled Rage spell increasing swing damage",
+      "cost": {
+        "Shillelagh": 1,
+        "Rune Key (Turtle)": 1,
+        "Eden Ring": 1,
+        "coins": 50000
+      },
+      "class": "priest"
+    },
+    {
+      "level": "Mark I",
+      "name": "Stream of Life",
+      "description": "Improved single target heal",
+      "cost": { "Cannabis Leaf": 1, "coins": 10000 },
+      "class": "priest"
+    },
+    {
+      "level": "Mark I",
+      "name": "Viper's Venom",
+      "description": "Improved weapon enchantment",
+      "cost": {
+        "Eden Ring": 2,
+        "Elm Staff": 2,
+        "Shillelagh (Mark I)": 1,
+        "coins": 40000
+      },
+      "class": "priest"
+    },
+    {
+      "level": "Mark II",
+      "name": "Dragon's Flame",
+      "description": "Improved weapon enchantment",
+      "cost": {
+        "Eden Ring": 4,
+        "Elm Staff": 4,
+        "Shillelagh (Mark II)": 1,
+        "coins": 60000
+      },
+      "class": "priest"
+    },
+    {
+      "level": "Mark II",
+      "name": "Shield of Light",
+      "description": "(Needs more information)",
+      "cost": { "Raw Ruby": 50, "coins": 150000 },
+      "class": "priest"
+    }
+  ]
+}

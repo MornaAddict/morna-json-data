@@ -1,0 +1,61 @@
+[
+  {
+    "level": 50,
+    "name": "Berzerker Rage",
+    "description": "Grants +1 Might",
+    "cost": {},
+    "class": "berzerker"
+  },
+  {
+    "level": 50,
+    "name": "Push",
+    "description": "Moves person or creature back one space. (Will not work if there is something under the person or monster)",
+    "cost": {},
+    "class": "berzerker"
+  },
+  {
+    "level": 50,
+    "name": "Smackdown",
+    "description": "Swing-based damage that also self-heals 10% - 20% of max Vita, depending on how low the caster's HP is",
+    "cost": {},
+    "class": "berzerker"
+  },
+  {
+    "level": 75,
+    "name": "Iron Will",
+    "description": "20s curse immunity. Also removes all active curses",
+    "cost": {},
+    "class": "berzerker"
+  },
+  {
+    "level": 99,
+    "name": "Cut Down",
+    "description": "8-Way Vita attack",
+    "cost": {},
+    "class": "berzerker"
+  },
+  {
+    "level": 99,
+    "name": "Sunder",
+    "description": "Single-target Vita attack",
+    "cost": {},
+    "class": "berzerker"
+  },
+  {
+    "level": "Mark I",
+    "name": "Savage Form",
+    "description": "All Vita attacks act as though the caster is full health and caster cannot be taken below 1 Vita while active",
+    "cost": {},
+    "class": "berzerker"
+  },
+  {
+    "level": "Mark II",
+    "name": "Bloodbath",
+    "description": "Adds 1% of current health to swing damage",
+    "cost": {
+      "Hack (Mark II)": 1,
+      "coins": 200000
+    },
+    "class": "berzerker"
+  }
+]

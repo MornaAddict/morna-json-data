@@ -1,0 +1,50 @@
+[
+    {
+        "Level": "50",
+        "Spell Name": "Berzerker Rage",
+        "Description": "Grants +1 Might",
+        "Cost": "(Needs more information)"
+    },
+    {
+        "Level": "50",
+        "Spell Name": "Push",
+        "Description": "Moves person or creature back one space. (Will not work if there is something under the person or monster)",
+        "Cost": "(Needs more information)"
+    },
+    {
+        "Level": "50",
+        "Spell Name": "Smackdown",
+        "Description": "Swing-based damage that also self-heals 10% - 20% of max Vita, depending on how low the caster's HP is",
+        "Cost": "(Needs more information)"
+    },
+    {
+        "Level": "75",
+        "Spell Name": "Iron Will",
+        "Description": "20s curse immunity. Also removes all active curses",
+        "Cost": "(Needs more information)"
+    },
+    {
+        "Level": "99",
+        "Spell Name": "Cut Down",
+        "Description": "8-Way Vita attack",
+        "Cost": "(Needs more information)"
+    },
+    {
+        "Level": "99",
+        "Spell Name": "Sunder",
+        "Description": "Single-target Vita attack",
+        "Cost": "Requires Quest? (Needs more information)"
+    },
+    {
+        "Level": "Mark I",
+        "Spell Name": "Savage Form",
+        "Description": "All Vita attacks act as though the caster is full health and caster cannot be taken below 1 Vita while active",
+        "Cost": "(Needs more information)"
+    },
+    {
+        "Level": "Mark II",
+        "Spell Name": "Bloodbath",
+        "Description": "Adds 1% of current health to swing damage",
+        "Cost": "1 Hack (Mark II), 200,000 coins"
+    }
+]

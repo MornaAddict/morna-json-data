@@ -2,177 +2,198 @@
   "spells": [
     {
       "level": 5,
-      "spell_name": "Zap",
+      "name": "Zap",
       "description": "Beginner single target zap spell",
-      "cost": ["10 Dead Rabbit", "10 Acorn", "50 coins"],
+      "cost": { "Dead Rabbit": 10, "Acorn": 10, "coins": 50 },
       "class": "wizard"
     },
     {
       "level": 7,
-      "spell_name": "Lesser Paralyze",
+      "name": "Lesser Paralyze",
       "description": "Paralyze your enemies",
-      "cost": ["1 Stew", "20 Acorn", "50 coins"],
+      "cost": { "Stew": 1, "Acorn": 20, "coins": 50 },
       "class": "wizard"
     },
     {
       "level": 9,
-      "spell_name": "Invoke",
+      "name": "Invoke",
       "description": "Sacrifice Vita to creat Mana",
-      "cost": ["1 Apprentice Leathers", "1 Gold Acorn", "100 coins"],
+      "cost": { "Apprentice Leathers": 1, "Gold Acorn": 1, "coins": 100 },
       "class": "wizard"
     },
     {
       "level": 15,
-      "spell_name": "Wizard's Heal",
+      "name": "Wizard's Heal",
       "description": "Heals target for 200 HP",
-      "cost": ["10 Small Scale", "1 Squid Ink", "150 coins"],
+      "cost": { "Small Scale": 10, "Squid Ink": 1, "coins": 150 },
       "class": "wizard"
     },
     {
       "level": 24,
-      "spell_name": "Greater Zap",
+      "name": "Greater Zap",
       "description": "Upgrade to Zap; Single target Zap spell",
-      "cost": ["1 Aloe", "2 Flourspar", "50 Acorn", "450 coins"],
+      "cost": { "Aloe": 1, "Flourspar": 2, "Acorn": 50, "coins": 450 },
       "class": "wizard"
     },
     {
       "level": 25,
-      "spell_name": "Lesser Sanctuary",
+      "name": "Lesser Sanctuary",
       "description": "Magical armor; Removes [XX] amount of AC to target",
-      "cost": ["1 Lima Beans", "10 Antler", "20 Snake Meat", "150 coins"],
+      "cost": { "Lima Beans": 1, "Antler": 10, "Snake Meat": 20, "coins": 150 },
       "class": "wizard"
     },
     {
       "level": 25,
-      "spell_name": "Purge",
+      "name": "Purge",
       "description": "Removes Poison from target",
-      "cost": ["10 Antler", "1 Cannabis Leaf", "1 Gold Acorn", "150 coins"],
+      "cost": {
+        "Antler": 10,
+        "Cannabis Leaf": 1,
+        "Gold Acorn": 1,
+        "coins": 150
+      },
       "class": "wizard"
     },
     {
       "level": 30,
-      "spell_name": "Vex",
+      "name": "Vex",
       "description": "Curses an enemy, adds [XX] amount of AC to target",
-      "cost": ["1 Rabbit's Foot", "70 Acorn", "250 coins"],
+      "cost": { "Rabbit's Foot": 1, "Acorn": 70, "coins": 250 },
       "class": "wizard"
     },
     {
       "level": 32,
-      "spell_name": "Erupt",
+      "name": "Erupt",
       "description": "5-Way target-able Zap spell",
-      "cost": ["1 Whiskey", "1 Gold Acorn", "5 Rainbow Fox Fur", "10 Light Fox Fur", "150 coins"],
+      "cost": {
+        "Whiskey": 1,
+        "Gold Acorn": 1,
+        "Rainbow Fox Fur": 5,
+        "Light Fox Fur": 10,
+        "coins": 150
+      },
       "class": "wizard"
     },
     {
       "level": 36,
-      "spell_name": "Return Movement",
+      "name": "Return Movement",
       "description": "Removes Paralyze",
-      "cost": ["1 Cannabis Leaf", "1 Gold Acorn", "150 coins"],
+      "cost": { "Cannabis Leaf": 1, "Gold Acorn": 1, "coins": 150 },
       "class": "wizard"
     },
     {
       "level": 40,
-      "spell_name": "Venom",
+      "name": "Venom",
       "description": "Deals damage over time to target",
-      "cost": ["1 Cannabis Leaf", "3 Fine Snake Meat", "10 Snake Meat", "500 coins"],
+      "cost": {
+        "Cannabis Leaf": 1,
+        "Fine Snake Meat": 3,
+        "Snake Meat": 10,
+        "coins": 500
+      },
       "class": "wizard"
     },
     {
       "level": 40,
-      "spell_name": "Heal",
+      "name": "Heal",
       "description": "Restores [XX] amount of HP to target",
-      "cost": ["1 Cannabis Leaf", "1 Gold Acorn", "10 Lima Beans", "100 coins"],
+      "cost": {
+        "Cannabis Leaf": 1,
+        "Gold Acorn": 1,
+        "Lima Beans": 10,
+        "coins": 100
+      },
       "class": "wizard"
     },
     {
       "level": 45,
-      "spell_name": "Call Lightning",
+      "name": "Call Lightning",
       "description": "Upgrade to Greater Zap; Single target damage",
-      "cost": ["1 Head Games", "1 Gold Acorn", "500 coins"],
+      "cost": { "Head Games": 1, "Gold Acorn": 1, "coins": 500 },
       "class": "wizard"
     },
     {
       "level": 50,
-      "spell_name": "Wizard's Fury",
+      "name": "Wizard's Fury",
       "description": "Increases spell damage",
-      "cost": ["1 Green Torch", "1,000 coins"],
+      "cost": { "Green Torch": 1, "coins": 1000 },
       "class": "wizard"
     },
     {
       "level": 55,
-      "spell_name": "Inspire",
+      "name": "Inspire",
       "description": "Give Mana to your target",
-      "cost": ["70 Acorn", "100 coins"],
+      "cost": { "Acorn": 70, "coins": 100 },
       "class": "wizard"
     },
     {
       "level": 60,
-      "spell_name": "Blind",
+      "name": "Blind",
       "description": "Blind your enemies",
-      "cost": ["1 Raw Sapphire", "2 Raw Ruby", "400 coins"],
+      "cost": { "Raw Sapphire": 1, "Raw Ruby": 2, "coins": 400 },
       "class": "wizard"
     },
     {
       "level": 63,
-      "spell_name": "Paralyze",
+      "name": "Paralyze",
       "description": "Upgrade to Lesser Paralyze",
-      "cost": ["1 Forbidden Fruit", "20 Antler", "500 coins"],
+      "cost": { "Forbidden Fruit": 1, "Antler": 20, "coins": 500 },
       "class": "wizard"
     },
     {
       "level": 65,
-      "spell_name": "Molten Flames",
+      "name": "Molten Flames",
       "description": "Single target burst damage",
-      "cost": ["1 Cult Staff", "2 Raw Ruby", "600 coins"],
+      "cost": { "Cult Staff": 1, "Raw Ruby": 2, "coins": 600 },
       "class": "wizard"
     },
     {
       "level": 65,
-      "spell_name": "Electrocute",
+      "name": "Electrocute",
       "description": "Upgrade to Call Lightning; Single target damage",
-      "cost": ["1 Raw Ruby", "70 Acorn", "500 coins"],
+      "cost": { "Raw Ruby": 1, "Acorn": 70, "coins": 500 },
       "class": "wizard"
     },
     {
       "level": 65,
-      "spell_name": "Sleep",
+      "name": "Sleep",
       "description": "Puts and enemy to sleep (works on bosses)",
-      "cost": ["1 Bandit's Knife", "10 Raw Sapphire", "1,000 coins"],
+      "cost": { "Bandit's Knife": 1, "Raw Sapphire": 10, "coins": 1000 },
       "class": "wizard"
     },
     {
       "level": 77,
-      "spell_name": "Storm Strike",
+      "name": "Storm Strike",
       "description": "Upgrade to Electrocute; Single target damage",
-      "cost": ["1 Stilleto", "3 Raw Sapphire", "2,500 coins"],
+      "cost": { "Stilleto": 1, "Raw Sapphire": 3, "coins": 2500 },
       "class": "wizard"
     },
     {
       "level": 80,
-      "spell_name": "Doze",
+      "name": "Doze",
       "description": "Puts an enemy to sleep (Usable in PVP)",
-      "cost": ["1 Bandit's Knife", "5 Raw Sapphire", "5,000 coins"],
+      "cost": { "Bandit's Knife": 1, "Raw Sapphire": 5, "coins": 5000 },
       "class": "wizard"
     },
     {
       "level": 92,
-      "spell_name": "Storm",
+      "name": "Storm",
       "description": "Upgrade to Erupt; 5-Way target-able Zap",
-      "cost": ["2 Raw Sapphire", "3 Gold Acorn", "5,000 coins"],
+      "cost": { "Raw Sapphire": 2, "Gold Acorn": 3, "coins": 5000 },
       "class": "wizard"
     },
     {
       "level": 99,
-      "spell_name": "Wizard's Solace",
+      "name": "Wizard's Solace",
       "description": "Heal's target for [XX] amount of HP",
-      "cost": ["2 Cannabis Leaf", "10,000 coins"],
+      "cost": { "Cannabis Leaf": 2, "coins": 10000 },
       "class": "wizard"
     },
     {
       "level": 99,
-      "spell_name": "Wizard's Rampage",
+      "name": "Wizard's Rampage",
       "description": "Upgrade to Wizard's Fury; Increases spell damage",
-      "cost": ["1 Rune Key (Phoenix)", "1 Rift", "50,000 coins"],
+      "cost": { "Rune Key (Phoenix)": 1, "Rift": 1, "coins": 50000 },
       "class": "wizard"
     }
   ]
