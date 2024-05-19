@@ -1,0 +1,117 @@
+[
+  {
+    "level": 50,
+    "name": "Aura of Protection",
+    "description": "A Holy aura guards those around you. (-2 ac to group)",
+    "cost": {
+      "Flourspar": 1,
+      "coins": 150
+    },
+    "class": "crusader"
+  },
+  {
+    "level": 50,
+    "name": "Flank",
+    "description": "Your swing will hit all 4 surrounding targets. (Automatically upgraded to 8-way at Mark 2?)",
+    "cost": {
+      "Green Torch": 1,
+      "coins": 10000
+    },
+    "class": "crusader"
+  },
+  {
+    "level": 75,
+    "name": "Templar's Might",
+    "description": "Swing with the powerful might of a templar! (x1.35 rage multiplier; stacks with furies, rages etc.)",
+    "cost": {
+      "Raw Hematite": 1,
+      "coins": 2000
+    },
+    "class": "crusader"
+  },
+  {
+    "level": 75,
+    "name": "Crosscut",
+    "description": "Expend your life force to attack with Crosscut! (Vita attack with overflow targeting in front of the caster)",
+    "cost": {
+      "Elm Staff": 1,
+      "coins": 25000
+    },
+    "class": "crusader"
+  },
+  {
+    "level": 75,
+    "name": "Purge Sins",
+    "description": "Dis spell all surrounding players (Friend or foe)-(100% chance)",
+    "cost": {
+      "Elm Staff": 1,
+      "coins": 50000
+    },
+    "class": "crusader"
+  },
+  {
+    "level": 80,
+    "name": "Fist of Judgement",
+    "description": "Force enemies to face your judgement. (Taunts and draws in enemies within a 3-tile radius)",
+    "cost": {
+      "Raw Ruby": 10,
+      "Raw Sapphire": 2,
+      "coins": 2500
+    },
+    "class": "crusader"
+  },
+  {
+    "level": 99,
+    "name": "Giant's Call",
+    "description": "All players in group get 10% max vita increase",
+    "cost": {
+      "Head Strong": 1,
+      "Shillelagh": 1,
+      "coins": 50000
+    },
+    "class": "crusader"
+  },
+  {
+    "level": 99,
+    "name": "Holy Smite",
+    "description": "Holy Smite is a strong vita attack that hits nearby enemies. (Powerful 4-Way vita attack)",
+    "cost": {
+      "Hack": 1,
+      "coins": 25000
+    },
+    "class": "crusader"
+  },
+  {
+    "level": "Mark I",
+    "name": "Templar's Revenge",
+    "description": "12-Way AoE Scourge",
+    "cost": {
+      "Green Torch": 1,
+      "Head Strong": 1,
+      "Shillelagh (Mark I)": 1,
+      "coins": 200000
+    },
+    "class": "crusader"
+  },
+  {
+    "level": "Mark I",
+    "name": "Crusader's Fortitude",
+    "description": "Group Heal",
+    "cost": {
+      "Tiger Fang": 1,
+      "Shillelagh": 1,
+      "coins": 100000
+    },
+    "class": "crusader"
+  },
+  {
+    "level": "Mark II",
+    "name": "Templar's Strike",
+    "description": "8-Way Vita attack",
+    "cost": {
+      "Shillelagh (Mark II)": 1,
+      "coins": 200000
+    },
+    "class": "crusader"
+  }
+]
